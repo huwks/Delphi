@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.613,=C:\Users\huwks\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.211,=C:\Users\huwks\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.774,=C:\Users\huwks\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.246,=C:\Users\huwks\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.106,=C:\Users\huwks\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.024,=C:\Users\huwks\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.748,=C:\Users\huwks\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019.03.09 10:14:11.274,=C:\Users\huwks\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019.03.09 19:49:14.282,C:\Users\huwks\Documents\Embarcadero\Studio\Projects\BASE\fr_test.dfm=C:\Users\huwks\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019.03.09 19:49:14.282,C:\Users\huwks\Documents\Embarcadero\Studio\Projects\BASE\fr_test.pas=C:\Users\huwks\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019.03.09 19:49:39.961,C:\Users\huwks\Documents\Embarcadero\Studio\Projects\BASE\Pr_fr_test.dproj=C:\Users\huwks\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
